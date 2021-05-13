@@ -1,0 +1,15 @@
+content:
+- How to read the documentation
+- Reading files
+- Context manager
+- Json module
+- Regexps in Python
+- Invoking a function
+- Math functions
+- Slicing
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Groups and alternations
+- Match object and flags
